@@ -1,0 +1,124 @@
+html, body {
+    height: 100%;
+}
+
+.app {
+    height: 100%;
+    overflow: hidden;
+}
+
+.hide {
+    display: none !important;
+}
+
+.clear:after {
+    content: " ";
+    display: table;
+    clear: both;
+}
+
+img {
+    max-width: 100%;
+}
+
+button {
+    background: none;
+    border: 1px solid #ddd;
+    box-shadow: none;
+    outline: 0;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.pointer-u {
+    cursor: pointer;
+}
+
+.pointer-u:hover{
+    text-decoration: underline;
+}
+
+[class*="font-"] {
+    visibility: hidden;
+}
+
+.color-point {
+    color: #1259a7 !important;
+}
+
+.bacgkround-point {
+    background-color: #1259a7 !important;
+}
+
+.btn-point {
+    border-color: #1259a7 !important;
+    background-color: #1259a7 !important;
+    color: #fff !important;
+}
+
+.btn-point:hover {
+    border-color: #146ece !important;
+    background-color: #146ece !important;
+}
+
+.border-point {
+    border-color: #1259a7 !important;
+}
+
+.badge-navy {
+    border-color: #04045d !important;
+    background-color: #04045d !important;
+    color: #fff !important;
+}
+
+.badge-ocean {
+    border-color: #1069af !important;
+    background-color: #1069af !important;
+    color: #fff !important;
+}
+
+.badge-yellowgreen {
+    border-color: yellowgreen !important;
+    background-color: yellowgreen !important;
+    color: #fff !important;
+}
+
+.badge-purple {
+    border-color: rgb(167, 8, 167) !important;
+    background-color: rgb(167, 8, 167) !important;
+    color: #fff !important;
+}
+
+.no-radius {
+    border-radius: 0 !important;
+}
+
+.font-parisienne {
+    font-family: "Parisienne", cursive;
+}
+
+.font-coding {
+    font-family: "Nanum Gothic Coding", monospace;
+}
+
+.wf-parisienne-n4-active .font-parisienne {
+    visibility: visible;
+}
+
+.wf-nanumgothiccoding-n4-active .font-coding {
+    visibility: visible;
+}
+
+.no-select {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+.disabled {
+    cursor: not-allowed !important;
+    opacity: 0.5;
+}
