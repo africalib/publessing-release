@@ -40,10 +40,6 @@ button {
     text-decoration: underline;
 }
 
-[class*="font-"] {
-    visibility: hidden;
-}
-
 .color-point {
     color: #1259a7 !important;
 }
@@ -101,14 +97,6 @@ button {
 
 .font-coding {
     font-family: "Nanum Gothic Coding", monospace;
-}
-
-.wf-parisienne-n4-active .font-parisienne {
-    visibility: visible;
-}
-
-.wf-nanumgothiccoding-n4-active .font-coding {
-    visibility: visible;
 }
 
 .no-select {
