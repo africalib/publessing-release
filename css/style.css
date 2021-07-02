@@ -36,7 +36,7 @@ button {
     cursor: pointer;
 }
 
-.pointer-u:hover{
+.pointer-u:hover {
     text-decoration: underline;
 }
 
@@ -118,7 +118,6 @@ button {
     user-select: none;
 }
 
-.disabled {
+.disabled, [disabled] {
     cursor: not-allowed !important;
-    opacity: 0.5;
 }
