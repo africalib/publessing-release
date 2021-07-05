@@ -63,6 +63,12 @@ button {
     border-color: #1259a7 !important;
 }
 
+.badge-point {
+    border-color: #1259a7 !important;
+    background-color: #1259a7 !important;
+    color: #fff !important;
+}
+
 .badge-navy {
     border-color: #04045d !important;
     background-color: #04045d !important;
@@ -87,12 +93,20 @@ button {
     color: #fff !important;
 }
 
+.focus-border-pointer:focus{
+    border-color: #146ece !important;
+}
+
 .no-radius {
     border-radius: 0 !important;
 }
 
 .font-parisienne {
     font-family: "Parisienne", cursive;
+}
+
+.font-poppins {
+    font-family: "Poppins", cursive;
 }
 
 .font-coding {
