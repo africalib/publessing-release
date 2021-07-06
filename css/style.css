@@ -48,6 +48,10 @@ button {
     background-color: #1259a7 !important;
 }
 
+.border-point {
+    border-color: #1259a7 !important;
+}
+
 .btn-point {
     border-color: #1259a7 !important;
     background-color: #1259a7 !important;
@@ -93,7 +97,7 @@ button {
     color: #fff !important;
 }
 
-.focus-border-pointer:focus{
+.focus-border-pointer:focus {
     border-color: #146ece !important;
 }
 
