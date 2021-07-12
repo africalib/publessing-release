@@ -36,6 +36,12 @@ button {
     cursor: pointer;
 }
 
+.clearfix:after {
+    content: " ";
+    clear: both;
+    display: table;
+}
+
 .pointer-u:hover {
     text-decoration: underline;
 }
