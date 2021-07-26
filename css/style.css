@@ -32,6 +32,16 @@ button {
     outline: 0;
 }
 
+select {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+    background-image: url(/img/ico.angle.bottom.png);
+    background-size: 20px;
+    background-position: calc(100% - 7px) calc(50% - 1px);
+    background-repeat: no-repeat;
+}
+
 .pointer {
     cursor: pointer;
 }
