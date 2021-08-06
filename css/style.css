@@ -82,7 +82,13 @@ select {
     background-color: #146ece !important;
 }
 
-.btn-point-hover:hover {
+.btn-point-line {
+    color: #1259a7 !important;
+    border-color: #1259a7 !important;
+}
+
+.btn-point-line:hover {
+    color: #fff !important;
     border-color: #146ece !important;
     background-color: #146ece !important;
 }
