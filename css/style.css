@@ -82,6 +82,11 @@ select {
     background-color: #146ece !important;
 }
 
+.btn-point-hover:hover {
+    border-color: #146ece !important;
+    background-color: #146ece !important;
+}
+
 .border-point {
     border-color: #1259a7 !important;
 }
