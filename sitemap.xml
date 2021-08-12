@@ -1,32 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
-      <loc>http://publessing.io/</loc>
-      <lastmod>2021-08-06</lastmod>
+      <loc>https://publessing.io/ko</loc>
+      <lastmod>2021-08-12</lastmod>
       <changefreq>weekly</changefreq>
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>http://publessing.io/intro</loc>
-      <lastmod>2021-08-06</lastmod>
+      <loc>https://publessing.io/ko/intro</loc>
+      <lastmod>2021-08-12</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://publessing.io/learn</loc>
-      <lastmod>2021-08-06</lastmod>
+      <loc>https://publessing.io/ko/learn</loc>
+      <lastmod>2021-08-12</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://publessing.io/license</loc>
-      <lastmod>2021-08-06</lastmod>
+      <loc>https://publessing.io/ko/license</loc>
+      <lastmod>2021-08-12</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://publessing.io/community</loc>
-      <lastmod>2021-08-06</lastmod>
+      <loc>https://publessing.io/ko/community</loc>
+      <lastmod>2021-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://publessing.io/en</loc>
+      <lastmod>2021-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>1.0</priority>
+   </url>
+   <url>
+      <loc>https://publessing.io/en/intro</loc>
+      <lastmod>2021-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://publessing.io/en/learn</loc>
+      <lastmod>2021-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://publessing.io/en/license</loc>
+      <lastmod>2021-08-12</lastmod>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+   </url>
+   <url>
+      <loc>https://publessing.io/en/community</loc>
+      <lastmod>2021-08-12</lastmod>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
    </url>
