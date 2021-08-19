@@ -58,6 +58,10 @@ select {
     height: 100%;
 }
 
+.no-margin-bottom {
+    margin-bottom: 0 !important;
+}
+
 .clearfix:after {
     content: " ";
     clear: both;
@@ -76,7 +80,7 @@ select {
     color: #1259a7 !important;
 }
 
-.bacgkround-point {
+.background-point {
     background-color: #1259a7 !important;
 }
 
@@ -152,12 +156,16 @@ select {
     border-radius: 0 !important;
 }
 
+.font-paint {
+    font-family: 'Finger Paint', cursive;
+}
+
 .font-parisienne {
     font-family: "Parisienne", cursive;
 }
 
-.font-poppins {
-    font-family: "Poppins", cursive;
+.font-nanum {
+    font-family: "Nanum Gothic", sans-serif;
 }
 
 .font-coding {
