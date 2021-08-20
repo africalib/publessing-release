@@ -156,6 +156,10 @@ select {
     border-radius: 0 !important;
 }
 
+.no-pointer-events {
+    pointer-events: none;
+}
+
 .font-paint {
     font-family: 'Finger Paint', cursive;
 }
